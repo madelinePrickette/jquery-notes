@@ -1,0 +1,49 @@
+* {
+    padding: 2px;
+}
+body {
+    background-color: #D9528B;
+    margin: 0;
+}
+
+.font {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.darkRed {
+    color: #A93545;
+}
+.orange {
+    color: #E25D4E;
+}
+.pink {
+    color: #D9528B;
+}
+.lightPink {
+    color: #FF92E8;
+}
+.darkRedBackground {
+    background-color: #A93545
+}
+.orangeBackground {
+    background-color: #E25D4E;
+}
+.pinkBackground {
+    background-color: #D9528B;
+}
+.lightPinkBackground {
+    background-color: #FF92E8;
+}
+.redBorder {
+    border: solid 2px #A93545;
+}
+
+.circleImg {
+    border-radius: 45%;
+    width: 400px;
+}
+
+li {
+    display: inline;
+    padding: 5px;
+}
